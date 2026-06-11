@@ -36,10 +36,14 @@ The maze is represented as a **2D integer grid**, where each cell encodes allowe
 
 <table align="center">
   <tr>
-    <td align="center"><strong>🟢 Start Screen</strong><br/><img src="https://github.com/user-attachments/assets/31602527-e801-472c-ba71-c0bc102677d0" width="200"/></td>
-    <td align="center"><strong>🟡 Game Screen</strong><br/><img src="https://github.com/user-attachments/assets/c0af72fa-fc30-4edf-825d-bcc2db89515f" width="200"/></td>
-    <td align="center"><strong>🟡 Navigation</strong><br/><img src="https://github.com/user-attachments/assets/78e6daaa-1250-48f3-8674-ea33ec003d3d" width="200"/></td>
-    <td align="center"><strong>🔴 Victory!</strong><br/><img src="https://github.com/user-attachments/assets/7b034b8e-3376-4b56-8e6a-ff9323f637" width="200"/></td>
+    <td align="center"><strong>🟢 Start Screen</strong><br/><img src="<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/84b1dbf3-a66a-4592-92bf-077a665403b5" />
+" width="200"/></td>
+    <td align="center"><strong>🟡 Game Screen</strong><br/><img src="<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/28d6b152-c01a-47eb-8069-492d2ffbc9e8" />
+" width="200"/></td>
+    <td align="center"><strong>🟡 Navigation</strong><br/><img src="<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/f8a1d6ed-a17b-4a12-a401-933a4954ca31" />
+" width="200"/></td>
+    <td align="center"><strong>🔴 Victory!</strong><br/><img src="<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/1e7ac807-72f1-4bd8-b337-bce3c53fa292" />
+" width="200"/></td>
   </tr>
 </table>
 
