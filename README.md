@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">🧩 Maze Game</h1>
+<h2 align="center"> Made By Yusif Rahimov, Student Id: 53206 </h2>
 <p align="center">
   <strong>Android · Kotlin · Jetpack Compose</strong><br/>
   A lightweight maze puzzle game with bitmask-based movement system
